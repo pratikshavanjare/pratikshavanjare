@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pratikshavanjare
-- 👀 I’m interested in Programming
-- 🌱 I’m currently pursuing Bachelor of Technology in Computer Science and Engineering
-- 💞️ I’m looking to collaborate on Open Source Projects
+-  Hi, I’m @pratikshavanjare
+-  I’m interested in Programming
+-  I’m currently pursuing Bachelor of Technology in Computer Science and Engineering
+-  I’m looking to collaborate on Open Source Projects
 
 
 <!---
